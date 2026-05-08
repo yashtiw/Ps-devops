@@ -1,0 +1,288 @@
+{
+  "/LambdaGatewayStack": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, node internals, @cspotcode/source-map-support...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, node internals, @cspotcode/source-map-support...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/HelloHandler/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "HelloHandler2E4FBA4D"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Function2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:10:25)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGateway11E7F47B"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/Account": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayAccountBC7F34C1"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/Endpoint": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayEndpoint5AA8EC3A"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, node internals, @cspotcode/source-map-support...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, node internals, @cspotcode/source-map-support...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/HelloHandler/ServiceRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "HelloHandlerServiceRole11EF7C63"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Function2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:10:25)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/CloudWatchRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayCloudWatchRoleA41EF9FE"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/Deployment/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayDeploymentA26796E8fa36855fd6c95ce1d5955ec0404ea033"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/DeploymentStage.prod/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayDeploymentStageprod1C6D5CD6"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/Default/{proxy+}/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayproxyD06ED2EE"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/Default/ANY/ApiPermission.LambdaGatewayStackApiGatewayF09B3357.ANY..": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayANYApiPermissionLambdaGatewayStackApiGatewayF09B3357ANY1DE346C9"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/Default/ANY/ApiPermission.Test.LambdaGatewayStackApiGatewayF09B3357.ANY..": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayANYApiPermissionTestLambdaGatewayStackApiGatewayF09B3357ANY5649DD70"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/Default/ANY/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayANY64A155AA"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/Default/{proxy+}/ANY/ApiPermission.LambdaGatewayStackApiGatewayF09B3357.ANY..{proxy+}": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayproxyANYApiPermissionLambdaGatewayStackApiGatewayF09B3357ANYproxy4198522F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/Default/{proxy+}/ANY/ApiPermission.Test.LambdaGatewayStackApiGatewayF09B3357.ANY..{proxy+}": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayproxyANYApiPermissionTestLambdaGatewayStackApiGatewayF09B3357ANYproxyEE4BF72F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ],
+  "/LambdaGatewayStack/ApiGateway/Default/{proxy+}/ANY/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiGatewayproxyANYF4919107"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new LambdaRestApi2 in aws-cdk-lib...",
+        "new LambdaGatewayStack (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/lib/lambda-gateway-upload-to-github-stack.ts:18:5)",
+        "<anonymous> (/Users/ytiwari/Downloads/work/CDK/Lambda_Gateway_upload_to_github/bin/lambda-gateway-upload-to-github.ts:6:1)",
+        "...node internals, ts-node, ts-node, ts-node..."
+      ]
+    }
+  ]
+}
