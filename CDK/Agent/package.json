@@ -1,0 +1,13 @@
+{
+  "name": "dynamodb-api-agent",
+  "version": "1.0.0",
+  "description": "AWS Lambda handler that stores five parameters to DynamoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --check index.js && node --check src/handlers/lambda.js && node --check src/db/dynamodb.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.380.0",
+    "@aws-sdk/lib-dynamodb": "^3.380.0"
+  }
+}
